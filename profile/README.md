@@ -1,6 +1,6 @@
 # Dodelidoo Labs - Machine Learning and AI Repository
 
-![Dodelidoo Logo](https://github.com/Dodelidoo-Labs/.github/blob/main/assets/logo.png)
+![Dodelidoo Logo](https://github.com/Dodelidoo-Labs/.github/blob/main/assets/logo.jpg)
 
 Welcome to the Dodelidoo Labs GitHub Repository! This repository is the go-to location for all the code (primarily Python) that I utilize for Machine Learning, Generative AI, data set management, and related tools. My work involves generating AI-created images, developing new tools, and exploring the fascinating realm of Generative Artificial Intelligence​​.
 
